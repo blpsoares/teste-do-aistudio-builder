@@ -1,0 +1,5 @@
+{
+  "name": "FocusFlow - Gerenciador de Tarefas com Pomodoro",
+  "description": "Um aplicativo de gerenciamento de tarefas completo com um temporizador Pomodoro integrado e recursos de IA para ajudar a dividir tarefas complexas e manter o foco.",
+  "requestFramePermissions": []
+}
